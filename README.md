@@ -1,4 +1,4 @@
- 🚀 Calculando média.
+ 🚀 Calculando média
 
 💻 Sobre o projeto 
 
