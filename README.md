@@ -1,4 +1,4 @@
- 🚀 Calculando média
+ 🚀 Calculando a média do aluno
  
 
 💻 Sobre o projeto
